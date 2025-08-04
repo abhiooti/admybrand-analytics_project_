@@ -25,3 +25,6 @@
 - *Customization:* 
   - Adapted AI-generated UI to fit ADmyBRAND’s unique brand, adjusting color themes, typography, spacing, and component hierarchy for a standout look.
   - Enhanced performance and polish by hand—optimizing loading states, smooth transitions, and accessibility features for a professional, client-ready finish.
+ 
+deployed project url
+https://abhiooti.github.io./admybrand-analytics_project_/
