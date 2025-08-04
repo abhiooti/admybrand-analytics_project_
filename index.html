@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADmyBRAND Insights - Analytics Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="dashboard-header">
+        <div class="header-content">
+            <div class="header-left">
+                <div class="logo">
+                    <i class="fas fa-chart-line"></i>
+                    <h1>ADmyBRAND <span class="logo-accent">Insights</span></h1>
+                </div>
+                <nav class="breadcrumb">
+                    <span>Analytics</span>
+                    <i class="fas fa-chevron-right"></i>
+                    <span>Dashboard</span>
+                </nav>
+            </div>
+            <div class="header-right">
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <div class="user-profile">
+                    <div class="user-avatar">
+                        <i class="fas fa-user"></i>
+                    </div>
+                    <div class="user-info">
+                        <span class="user-name">John Smith</span>
+                        <span class="user-role">Marketing Director</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Dashboard -->
+    <main class="dashboard-main">
+        <div class="dashboard-container">
+            <!-- Loading Overlay -->
+            <div class="loading-overlay" id="loadingOverlay">
+                <div class="loading-spinner"></div>
+            </div>
+
+            <!-- Key Metrics Cards -->
+            <section class="metrics-section">
+                <h2 class="section-title">Key Performance Metrics</h2>
+                <div class="metrics-grid">
+                    <div class="metric-card revenue-card">
+                        <div class="metric-header">
+                            <div class="metric-icon">
+                                <i class="fas fa-dollar-sign"></i>
+                            </div>
+                            <div class="metric-trend positive">
+                                <i class="fas fa-arrow-up"></i>
+                                <span>+12.5%</span>
+                            </div>
+                        </div>
+                        <div class="metric-content">
+                            <h3 class="metric-title">Total Revenue</h3>
+                            <div class="metric-value" data-target="487500">$0</div>
+                            <p class="metric-subtitle">This month</p>
+                        </div>
+                    </div>
+
+                    <div class="metric-card users-card">
+                        <div class="metric-header">
+                            <div class="metric-icon">
+                                <i class="fas fa-users"></i>
+                            </div>
+                            <div class="metric-trend negative">
+                                <i class="fas fa-arrow-down"></i>
+                                <span>-8.2%</span>
+                            </div>
+                        </div>
+                        <div class="metric-content">
+                            <h3 class="metric-title">Total Users</h3>
+                            <div class="metric-value" data-target="145000">0</div>
+                            <p class="metric-subtitle">Active users</p>
+                        </div>
+                    </div>
+
+                    <div class="metric-card conversions-card">
+                        <div class="metric-header">
+                            <div class="metric-icon">
+                                <i class="fas fa-bullseye"></i>
+                            </div>
+                            <div class="metric-trend positive">
+                                <i class="fas fa-arrow-up"></i>
+                                <span>+15.8%</span>
+                            </div>
+                        </div>
+                        <div class="metric-content">
+                            <h3 class="metric-title">Total Conversions</h3>
+                            <div class="metric-value" data-target="8945">0</div>
+                            <p class="metric-subtitle">This month</p>
+                        </div>
+                    </div>
+
+                    <div class="metric-card growth-card">
+                        <div class="metric-header">
+                            <div class="metric-icon">
+                                <i class="fas fa-chart-line"></i>
+                            </div>
+                            <div class="metric-trend steady">
+                                <i class="fas fa-minus"></i>
+                                <span>+4.5%</span>
+                            </div>
+                        </div>
+                        <div class="metric-content">
+                            <h3 class="metric-title">Growth Rate</h3>
+                            <div class="metric-value" data-target="4.5">0%</div>
+                            <p class="metric-subtitle">Average growth</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Charts Section -->
+            <section class="charts-section">
+                <h2 class="section-title">Performance Analytics</h2>
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <h3>Revenue Trend</h3>
+                            <p>Last 30 days performance</p>
+                        </div>
+                        <div class="chart-container">
+                            <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/3cfacf3b590a013f2b5a2faea6c8cd68/8d1e3b9a-6697-4ec7-9597-b8f5615cf43c/6b581b12.png" alt="Revenue Trend Chart" class="chart-image">
+                        </div>
+                    </div>
+
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <h3>Channel Performance</h3>
+                            <p>Revenue distribution by channel</p>
+                        </div>
+                        <div class="chart-container">
+                            <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/3cfacf3b590a013f2b5a2faea6c8cd68/1f7751b1-c6db-4631-a8b3-21a3a518b1ee/0783828c.png" alt="Channel Performance Donut Chart" class="chart-image">
+                        </div>
+                    </div>
+
+                    <div class="chart-card chart-card-wide">
+                        <div class="chart-header">
+                            <h3>Campaign ROAS</h3>
+                            <p>Return on ad spend by campaign</p>
+                        </div>
+                        <div class="chart-container">
+                            <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/3cfacf3b590a013f2b5a2faea6c8cd68/85890afb-8a42-4685-9478-df6f5dcac047/66161ca2.png" alt="Campaign ROAS Bar Chart" class="chart-image">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Data Table Section -->
+            <section class="table-section">
+                <div class="table-header">
+                    <h2 class="section-title">Campaign Performance Data</h2>
+                    <div class="table-controls">
+                        <div class="search-box">
+                            <i class="fas fa-search"></i>
+                            <input type="text" id="searchInput" placeholder="Search campaigns...">
+                        </div>
+                        <select class="filter-select" id="statusFilter">
+                            <option value="">All Status</option>
+                            <option value="Active">Active</option>
+                            <option value="Paused">Paused</option>
+                            <option value="Completed">Completed</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="table-container">
+                    <table class="data-table" id="campaignTable">
+                        <thead>
+                            <tr>
+                                <th data-sort="campaign">Campaign <i class="fas fa-sort"></i></th>
+                                <th data-sort="status">Status <i class="fas fa-sort"></i></th>
+                                <th data-sort="budget">Budget <i class="fas fa-sort"></i></th>
+                                <th data-sort="spent">Spent <i class="fas fa-sort"></i></th>
+                                <th data-sort="conversions">Conversions <i class="fas fa-sort"></i></th>
+                                <th data-sort="cost_per_click">CPC <i class="fas fa-sort"></i></th>
+                                <th data-sort="conversion_rate">Conv. Rate <i class="fas fa-sort"></i></th>
+                                <th data-sort="return_on_ad_spend">ROAS <i class="fas fa-sort"></i></th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody">
+                            <!-- Table data will be populated by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="pagination" id="pagination">
+                    <button class="pagination-btn" id="prevBtn" disabled>
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <div class="pagination-info">
+                        <span id="pageInfo">Page 1 of 1</span>
+                    </div>
+                    <button class="pagination-btn" id="nextBtn" disabled>
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

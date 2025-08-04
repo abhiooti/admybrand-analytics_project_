@@ -1,0 +1,800 @@
+{
+  "revenue_data": [
+    {
+      "date": "2025-07-06",
+      "revenue": 59449,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-07",
+      "revenue": 49855,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-08",
+      "revenue": 57350,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-09",
+      "revenue": 60176,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-10",
+      "revenue": 56003,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-11",
+      "revenue": 47106,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-12",
+      "revenue": 47130,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-13",
+      "revenue": 54832,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-14",
+      "revenue": 59311,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-15",
+      "revenue": 48190,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-16",
+      "revenue": 45981,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-17",
+      "revenue": 62832,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-18",
+      "revenue": 62770,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-19",
+      "revenue": 55602,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-20",
+      "revenue": 50292,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-21",
+      "revenue": 47138,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-22",
+      "revenue": 48449,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-23",
+      "revenue": 56042,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-24",
+      "revenue": 46853,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-25",
+      "revenue": 54785,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-26",
+      "revenue": 57861,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-27",
+      "revenue": 58206,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-28",
+      "revenue": 45145,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-29",
+      "revenue": 48083,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-30",
+      "revenue": 64836,
+      "target": 55000
+    },
+    {
+      "date": "2025-07-31",
+      "revenue": 59028,
+      "target": 55000
+    },
+    {
+      "date": "2025-08-01",
+      "revenue": 54482,
+      "target": 55000
+    },
+    {
+      "date": "2025-08-02",
+      "revenue": 53245,
+      "target": 55000
+    },
+    {
+      "date": "2025-08-03",
+      "revenue": 48650,
+      "target": 55000
+    },
+    {
+      "date": "2025-08-04",
+      "revenue": 58462,
+      "target": 55000
+    }
+  ],
+  "users_data": [
+    {
+      "date": "2025-07-06",
+      "users": 12682,
+      "new_users": 1051,
+      "returning_users": 10341
+    },
+    {
+      "date": "2025-07-07",
+      "users": 13061,
+      "new_users": 872,
+      "returning_users": 10031
+    },
+    {
+      "date": "2025-07-08",
+      "users": 12310,
+      "new_users": 538,
+      "returning_users": 10587
+    },
+    {
+      "date": "2025-07-09",
+      "users": 13522,
+      "new_users": 1329,
+      "returning_users": 10487
+    },
+    {
+      "date": "2025-07-10",
+      "users": 13224,
+      "new_users": 710,
+      "returning_users": 11689
+    },
+    {
+      "date": "2025-07-11",
+      "users": 12761,
+      "new_users": 1334,
+      "returning_users": 8982
+    },
+    {
+      "date": "2025-07-12",
+      "users": 13895,
+      "new_users": 601,
+      "returning_users": 8579
+    },
+    {
+      "date": "2025-07-13",
+      "users": 13371,
+      "new_users": 886,
+      "returning_users": 9956
+    },
+    {
+      "date": "2025-07-14",
+      "users": 14303,
+      "new_users": 1163,
+      "returning_users": 9781
+    },
+    {
+      "date": "2025-07-15",
+      "users": 14268,
+      "new_users": 1260,
+      "returning_users": 9323
+    },
+    {
+      "date": "2025-07-16",
+      "users": 14336,
+      "new_users": 533,
+      "returning_users": 9216
+    },
+    {
+      "date": "2025-07-17",
+      "users": 14573,
+      "new_users": 1137,
+      "returning_users": 9219
+    },
+    {
+      "date": "2025-07-18",
+      "users": 14032,
+      "new_users": 638,
+      "returning_users": 8817
+    },
+    {
+      "date": "2025-07-19",
+      "users": 14807,
+      "new_users": 1303,
+      "returning_users": 8070
+    },
+    {
+      "date": "2025-07-20",
+      "users": 11509,
+      "new_users": 1372,
+      "returning_users": 11232
+    },
+    {
+      "date": "2025-07-21",
+      "users": 14478,
+      "new_users": 881,
+      "returning_users": 8776
+    },
+    {
+      "date": "2025-07-22",
+      "users": 12367,
+      "new_users": 1447,
+      "returning_users": 10439
+    },
+    {
+      "date": "2025-07-23",
+      "users": 13263,
+      "new_users": 649,
+      "returning_users": 11908
+    },
+    {
+      "date": "2025-07-24",
+      "users": 11020,
+      "new_users": 1324,
+      "returning_users": 11160
+    },
+    {
+      "date": "2025-07-25",
+      "users": 13561,
+      "new_users": 1460,
+      "returning_users": 10758
+    },
+    {
+      "date": "2025-07-26",
+      "users": 14613,
+      "new_users": 744,
+      "returning_users": 9990
+    },
+    {
+      "date": "2025-07-27",
+      "users": 12093,
+      "new_users": 1016,
+      "returning_users": 9713
+    },
+    {
+      "date": "2025-07-28",
+      "users": 12229,
+      "new_users": 989,
+      "returning_users": 9773
+    },
+    {
+      "date": "2025-07-29",
+      "users": 13108,
+      "new_users": 1115,
+      "returning_users": 8997
+    },
+    {
+      "date": "2025-07-30",
+      "users": 13076,
+      "new_users": 1081,
+      "returning_users": 8866
+    },
+    {
+      "date": "2025-07-31",
+      "users": 14560,
+      "new_users": 1437,
+      "returning_users": 9114
+    },
+    {
+      "date": "2025-08-01",
+      "users": 11148,
+      "new_users": 794,
+      "returning_users": 9408
+    },
+    {
+      "date": "2025-08-02",
+      "users": 14932,
+      "new_users": 795,
+      "returning_users": 10143
+    },
+    {
+      "date": "2025-08-03",
+      "users": 12911,
+      "new_users": 1409,
+      "returning_users": 10104
+    },
+    {
+      "date": "2025-08-04",
+      "users": 13039,
+      "new_users": 1011,
+      "returning_users": 11211
+    }
+  ],
+  "conversions_data": [
+    {
+      "date": "2025-07-06",
+      "conversions": 1022,
+      "conversion_rate": 3.0,
+      "cost_per_conversion": 63.79
+    },
+    {
+      "date": "2025-07-07",
+      "conversions": 1205,
+      "conversion_rate": 3.1,
+      "cost_per_conversion": 55.63
+    },
+    {
+      "date": "2025-07-08",
+      "conversions": 989,
+      "conversion_rate": 3.52,
+      "cost_per_conversion": 34.18
+    },
+    {
+      "date": "2025-07-09",
+      "conversions": 965,
+      "conversion_rate": 4.59,
+      "cost_per_conversion": 49.34
+    },
+    {
+      "date": "2025-07-10",
+      "conversions": 1351,
+      "conversion_rate": 3.91,
+      "cost_per_conversion": 36.86
+    },
+    {
+      "date": "2025-07-11",
+      "conversions": 1146,
+      "conversion_rate": 3.8,
+      "cost_per_conversion": 33.61
+    },
+    {
+      "date": "2025-07-12",
+      "conversions": 836,
+      "conversion_rate": 3.31,
+      "cost_per_conversion": 44.71
+    },
+    {
+      "date": "2025-07-13",
+      "conversions": 1048,
+      "conversion_rate": 3.19,
+      "cost_per_conversion": 25.8
+    },
+    {
+      "date": "2025-07-14",
+      "conversions": 1400,
+      "conversion_rate": 3.05,
+      "cost_per_conversion": 55.72
+    },
+    {
+      "date": "2025-07-15",
+      "conversions": 1442,
+      "conversion_rate": 3.15,
+      "cost_per_conversion": 42.4
+    },
+    {
+      "date": "2025-07-16",
+      "conversions": 1466,
+      "conversion_rate": 4.37,
+      "cost_per_conversion": 26.13
+    },
+    {
+      "date": "2025-07-17",
+      "conversions": 906,
+      "conversion_rate": 4.52,
+      "cost_per_conversion": 73.36
+    },
+    {
+      "date": "2025-07-18",
+      "conversions": 1220,
+      "conversion_rate": 3.98,
+      "cost_per_conversion": 70.51
+    },
+    {
+      "date": "2025-07-19",
+      "conversions": 1321,
+      "conversion_rate": 3.4,
+      "cost_per_conversion": 52.92
+    },
+    {
+      "date": "2025-07-20",
+      "conversions": 977,
+      "conversion_rate": 4.35,
+      "cost_per_conversion": 48.6
+    },
+    {
+      "date": "2025-07-21",
+      "conversions": 1266,
+      "conversion_rate": 3.91,
+      "cost_per_conversion": 73.73
+    },
+    {
+      "date": "2025-07-22",
+      "conversions": 951,
+      "conversion_rate": 2.63,
+      "cost_per_conversion": 73.21
+    },
+    {
+      "date": "2025-07-23",
+      "conversions": 933,
+      "conversion_rate": 3.45,
+      "cost_per_conversion": 34.54
+    },
+    {
+      "date": "2025-07-24",
+      "conversions": 1465,
+      "conversion_rate": 2.66,
+      "cost_per_conversion": 53.29
+    },
+    {
+      "date": "2025-07-25",
+      "conversions": 1206,
+      "conversion_rate": 4.05,
+      "cost_per_conversion": 59.71
+    },
+    {
+      "date": "2025-07-26",
+      "conversions": 1427,
+      "conversion_rate": 2.86,
+      "cost_per_conversion": 37.92
+    },
+    {
+      "date": "2025-07-27",
+      "conversions": 1105,
+      "conversion_rate": 3.43,
+      "cost_per_conversion": 66.06
+    },
+    {
+      "date": "2025-07-28",
+      "conversions": 1349,
+      "conversion_rate": 4.63,
+      "cost_per_conversion": 46.88
+    },
+    {
+      "date": "2025-07-29",
+      "conversions": 1096,
+      "conversion_rate": 4.41,
+      "cost_per_conversion": 63.71
+    },
+    {
+      "date": "2025-07-30",
+      "conversions": 1160,
+      "conversion_rate": 2.84,
+      "cost_per_conversion": 51.86
+    },
+    {
+      "date": "2025-07-31",
+      "conversions": 1182,
+      "conversion_rate": 4.37,
+      "cost_per_conversion": 25.36
+    },
+    {
+      "date": "2025-08-01",
+      "conversions": 1027,
+      "conversion_rate": 3.71,
+      "cost_per_conversion": 32.33
+    },
+    {
+      "date": "2025-08-02",
+      "conversions": 1084,
+      "conversion_rate": 4.26,
+      "cost_per_conversion": 57.23
+    },
+    {
+      "date": "2025-08-03",
+      "conversions": 1499,
+      "conversion_rate": 4.33,
+      "cost_per_conversion": 57.19
+    },
+    {
+      "date": "2025-08-04",
+      "conversions": 1003,
+      "conversion_rate": 3.52,
+      "cost_per_conversion": 28.15
+    }
+  ],
+  "channel_data": [
+    {
+      "channel": "Google Ads",
+      "impressions": 171520,
+      "clicks": 3581,
+      "conversions": 526,
+      "cost": 18903,
+      "revenue": 72773,
+      "ctr": 3.43,
+      "cpc": 4.56,
+      "roas": 2.18
+    },
+    {
+      "channel": "Facebook Ads",
+      "impressions": 96622,
+      "clicks": 5135,
+      "conversions": 443,
+      "cost": 7012,
+      "revenue": 65933,
+      "ctr": 3.99,
+      "cpc": 6.98,
+      "roas": 2.72
+    },
+    {
+      "channel": "Instagram Ads",
+      "impressions": 100458,
+      "clicks": 6373,
+      "conversions": 288,
+      "cost": 23591,
+      "revenue": 75804,
+      "ctr": 1.55,
+      "cpc": 5.51,
+      "roas": 2.97
+    },
+    {
+      "channel": "LinkedIn Ads",
+      "impressions": 174620,
+      "clicks": 3551,
+      "conversions": 441,
+      "cost": 6740,
+      "revenue": 35810,
+      "ctr": 2.13,
+      "cpc": 7.63,
+      "roas": 4.7
+    },
+    {
+      "channel": "Email Marketing",
+      "impressions": 57157,
+      "clicks": 5441,
+      "conversions": 552,
+      "cost": 14387,
+      "revenue": 21215,
+      "ctr": 2.08,
+      "cpc": 9.29,
+      "roas": 2.85
+    },
+    {
+      "channel": "Organic Search",
+      "impressions": 118769,
+      "clicks": 5622,
+      "conversions": 136,
+      "cost": 11661,
+      "revenue": 58759,
+      "ctr": 3.5,
+      "cpc": 11.16,
+      "roas": 4.47
+    }
+  ],
+  "campaign_data": [
+    {
+      "campaign": "Black Friday Sale 2024",
+      "status": "Completed",
+      "budget": 32765,
+      "spent": 12743,
+      "impressions": 143133,
+      "clicks": 3598,
+      "conversions": 225,
+      "cost_per_click": 5.9,
+      "conversion_rate": 3.02,
+      "return_on_ad_spend": 4.02
+    },
+    {
+      "campaign": "Holiday Gift Guide",
+      "status": "Paused",
+      "budget": 31621,
+      "spent": 19784,
+      "impressions": 77752,
+      "clicks": 4833,
+      "conversions": 98,
+      "cost_per_click": 4.79,
+      "conversion_rate": 5.06,
+      "return_on_ad_spend": 4.1
+    },
+    {
+      "campaign": "New Year Promotions",
+      "status": "Completed",
+      "budget": 36070,
+      "spent": 23282,
+      "impressions": 139593,
+      "clicks": 1329,
+      "conversions": 304,
+      "cost_per_click": 6.36,
+      "conversion_rate": 3.58,
+      "return_on_ad_spend": 3.63
+    },
+    {
+      "campaign": "Spring Collection Launch",
+      "status": "Paused",
+      "budget": 40220,
+      "spent": 30124,
+      "impressions": 92175,
+      "clicks": 1787,
+      "conversions": 54,
+      "cost_per_click": 5.51,
+      "conversion_rate": 3.82,
+      "return_on_ad_spend": 4.32
+    },
+    {
+      "campaign": "Summer Sale Campaign",
+      "status": "Active",
+      "budget": 17444,
+      "spent": 35807,
+      "impressions": 90709,
+      "clicks": 3978,
+      "conversions": 321,
+      "cost_per_click": 3.09,
+      "conversion_rate": 3.51,
+      "return_on_ad_spend": 2.44
+    },
+    {
+      "campaign": "Brand Awareness Q4",
+      "status": "Paused",
+      "budget": 15730,
+      "spent": 27173,
+      "impressions": 101175,
+      "clicks": 3061,
+      "conversions": 266,
+      "cost_per_click": 2.43,
+      "conversion_rate": 1.97,
+      "return_on_ad_spend": 2.88
+    },
+    {
+      "campaign": "Retargeting Campaign",
+      "status": "Active",
+      "budget": 10652,
+      "spent": 25692,
+      "impressions": 106784,
+      "clicks": 4018,
+      "conversions": 365,
+      "cost_per_click": 3.55,
+      "conversion_rate": 2.91,
+      "return_on_ad_spend": 4.11
+    },
+    {
+      "campaign": "Lead Generation Drive",
+      "status": "Active",
+      "budget": 43642,
+      "spent": 32529,
+      "impressions": 43194,
+      "clicks": 4546,
+      "conversions": 195,
+      "cost_per_click": 6.06,
+      "conversion_rate": 3.37,
+      "return_on_ad_spend": 2.77
+    }
+  ],
+  "geo_data": [
+    {
+      "country": "United States",
+      "users": 45000,
+      "revenue": 180000,
+      "conversions": 2200
+    },
+    {
+      "country": "Canada",
+      "users": 12000,
+      "revenue": 48000,
+      "conversions": 580
+    },
+    {
+      "country": "United Kingdom",
+      "users": 18000,
+      "revenue": 72000,
+      "conversions": 890
+    },
+    {
+      "country": "Germany",
+      "users": 15000,
+      "revenue": 60000,
+      "conversions": 720
+    },
+    {
+      "country": "France",
+      "users": 11000,
+      "revenue": 44000,
+      "conversions": 530
+    },
+    {
+      "country": "Australia",
+      "users": 8000,
+      "revenue": 32000,
+      "conversions": 390
+    },
+    {
+      "country": "Japan",
+      "users": 9500,
+      "revenue": 38000,
+      "conversions": 460
+    },
+    {
+      "country": "Brazil",
+      "users": 7200,
+      "revenue": 28800,
+      "conversions": 340
+    }
+  ],
+  "device_data": [
+    {
+      "device": "Desktop",
+      "users": 52000,
+      "sessions": 68000,
+      "bounce_rate": 38.5,
+      "conversion_rate": 3.2
+    },
+    {
+      "device": "Mobile",
+      "users": 78000,
+      "sessions": 95000,
+      "bounce_rate": 45.2,
+      "conversion_rate": 2.8
+    },
+    {
+      "device": "Tablet",
+      "users": 15000,
+      "sessions": 18500,
+      "bounce_rate": 42.1,
+      "conversion_rate": 2.9
+    }
+  ],
+  "content_data": [
+    {
+      "title": "Ultimate Marketing Guide 2024",
+      "views": 25000,
+      "shares": 850,
+      "leads": 320
+    },
+    {
+      "title": "10 Digital Marketing Trends",
+      "views": 18500,
+      "shares": 620,
+      "leads": 245
+    },
+    {
+      "title": "ROI Calculator Tool",
+      "views": 22000,
+      "shares": 480,
+      "leads": 890
+    },
+    {
+      "title": "Case Study: 300% Growth",
+      "views": 15200,
+      "shares": 395,
+      "leads": 180
+    },
+    {
+      "title": "Social Media Templates",
+      "views": 19800,
+      "shares": 720,
+      "leads": 420
+    }
+  ],
+  "current_metrics": {
+    "total_revenue": 487500,
+    "revenue_growth": 12.5,
+    "total_users": 145000,
+    "user_growth": -8.2,
+    "total_conversions": 8945,
+    "conversion_growth": 15.8,
+    "avg_growth_rate": 4.5,
+    "growth_trend": "up"
+  },
+  "last_updated": "2025-08-04T12:02:48.534533"
+}
